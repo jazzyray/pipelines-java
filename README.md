@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/jemrayfield/test/_apis/build/status/jazzyray.pipelines-java?branchName=master)](https://dev.azure.com/jemrayfield/test/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
